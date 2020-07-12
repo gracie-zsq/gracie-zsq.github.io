@@ -14,18 +14,18 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'Grace'
+name: 'Grace/是起司猫本喵/whatever you want'
 NickName: 'Gracie'
 webtitle: '起司猫猫窝'
-bio: '随便写写的地方'
+bio: '一个猫型人没事儿瞎琢磨的地方'
 about: true
-aboutyou: '欢迎'
+aboutyou: ‘苦逼95后，什么新事物都喜欢试试，什么新闻都爱听听，什么知识都想了解个皮毛'
 portraits: '' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'riddle.zsq@gmail.com'
+  mail: 'riddle.zsq@gmail.com' 'riddle.zsq@outlook.com'
   weixin: '' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
@@ -41,7 +41,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   twitch: ''
 
 # 分页
-paginate: 2
+paginate: 6
 paginatepath: ['page:num']
 
 # since

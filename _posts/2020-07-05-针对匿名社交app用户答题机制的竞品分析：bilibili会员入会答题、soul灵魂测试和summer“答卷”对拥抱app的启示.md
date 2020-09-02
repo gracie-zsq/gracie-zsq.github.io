@@ -24,5 +24,5 @@ Summer作为主打高端大学生匿名交友的app，可以说是市面上比�
 
 **三、竞品分析**<br>
 *3.1 产品定位：用户画像分析*
-
+<img src="https://gracie-zsq.github.io/assets/userportrait.png" class="inline"/>
 <img src="https://gracie-zsq.github.io/assets/bilibili.png" class="inline"/>

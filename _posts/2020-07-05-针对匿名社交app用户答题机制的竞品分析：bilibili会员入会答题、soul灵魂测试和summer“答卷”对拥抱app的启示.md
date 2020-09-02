@@ -9,3 +9,4 @@ tags:
     - 拥抱app
     - 竞品分析
 ---
+<img src="gracie-zsq.github.io/assets/bilibili.png" class="inline"/>
